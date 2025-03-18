@@ -3,7 +3,7 @@ Safe RL algorithms (PPO-Lag &amp; SAC-Lag) tested in SafeMetaDrive envs.
 
 ## 🛠️ Dependency
 
-Install furl via:
+Install fsrl via:
 
 ```shell
 git clone https://github.com/liuzuxin/fsrl.git
